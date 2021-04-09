@@ -1,0 +1,2 @@
+# `hypothesis-generation/`
+`hypothesis-generation/` is a directory to record the process to generate a hypothesis from a question. What and how the question is came up with is recorded in `hypothesis-generation/question/`. Similarly, why and what hypothesis is proposed is described in `hypothesis-generation/hypothesis/`.

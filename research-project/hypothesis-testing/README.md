@@ -1,0 +1,2 @@
+# `hypothesis-testing/`
+`hypothesis-testing/` is a directory to record the process to test the hypothesis. The codes for experiments are stored in `hypothesis-testing/experiment/`. Then, the results from the experiment are analyzed in `hypothesis-testing/analysis/`.
